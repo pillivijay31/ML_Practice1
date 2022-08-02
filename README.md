@@ -8,19 +8,20 @@ Machine_Learning_Project_Practice
 4. [GIT cli](https://git-scm.com/downloads)
 
 # Creating conda virtual environment
-'''
+```
 conda create -p vij python==3.7 -y
-'''
+```
 # Activating conda virtual environment
-'''
+```
 conda activate vij/
-'''
-'''
+```
+or
+```
 conda activate vij
-'''
+```
 
 Creating requirements.txt and app.py files
 # Installing libraries in requirements.txt
-'''
+```
 pip install -r requirements.txt
-'''
+```
