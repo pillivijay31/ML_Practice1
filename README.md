@@ -19,6 +19,8 @@ conda activate vij/
 conda activate vij
 '''
 
-dsaf
-sdafa
-sdfeae
+Creating requirements.txt and app.py files
+# Installing libraries in requirements.txt
+'''
+pip install -r requirements.txt
+'''
