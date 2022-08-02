@@ -1,2 +1,8 @@
 # ML_Practice1
 Machine_Learning_Project_Practice
+
+GIT PUSH
+sdfggf
+sdfgsdf
+
+dfsf
